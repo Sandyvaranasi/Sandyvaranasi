@@ -6,7 +6,7 @@
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Coding" width="500" height="350">
 </p>
 
-- 🌱 I’m currently learning **Nest.js and TypeScript.**
+- 🌱 I’m currently learning **Nest.js and TypeScript, Node, React, MySQL, Mongo and many more**
 - 💬 Ask me about **JavaScript, Node.js, Mongo DB, etc...**
 - ⚡ Fun fact: **I can make you laugh!!!**
 
