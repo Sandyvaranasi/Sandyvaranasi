@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sandeep Tripathi</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
-<img align="center" alt="coding" width="400" src="https://t4.ftcdn.net/jpg/03/13/40/45/360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg">
-
 - 🌱 I’m currently learning **Nest Js and Type Script.**
 
 - 💬 Ask me about **Node**
