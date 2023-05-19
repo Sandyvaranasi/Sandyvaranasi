@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Backend developer from India</h3>
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif](https://media1.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif?cid=ecf05e47e7n4qnvdfw3vuwsymdxzyqvop91hijz6i96r2m28&ep=v1_gifs_search&rid=giphy.gif&ct=g)" alt="Coding" width="500" height="350">
+  <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" alt="Coding" width="500" height="350">
 </p>
 
 - 🌱 I’m currently learning **Nest.js and TypeScript.**
