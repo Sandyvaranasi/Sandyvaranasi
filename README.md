@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sandeep Tripathi</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://t4.ftcdn.net/jpg/03/13/40/45/360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sandyvaranasi&label=Profile%20views&color=0e75b6&style=flat" alt="sandyvaranasi" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandyvaranasi" alt="sandyvaranasi" /></a> </p>
+<img align="center" alt="coding" width="400" src="https://t4.ftcdn.net/jpg/03/13/40/45/360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg">
 
 - 🌱 I’m currently learning **Nest Js and Type Script.**
 
@@ -29,4 +26,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandyvaranasi&show_icons=true&locale=en" alt="sandyvaranasi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandyvaranasi&" alt="sandyvaranasi" /></p>
-
