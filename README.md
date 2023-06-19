@@ -22,9 +22,6 @@
   <a href="https://auth.geeksforgeeks.org/user/tripathiynou/practice" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-GeeksforGeeks-brightgreen?style=flat&logo=geeksforgeeks" alt="GeeksforGeeks" height="30" width="140" />
   </a>
-  <a href="https://www.getpostman.com/collections/abcdefg" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-Postman-orange?style=flat&logo=postman" alt="Postman" height="30" width="100" />
-  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
