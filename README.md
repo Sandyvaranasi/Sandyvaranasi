@@ -1,13 +1,13 @@
 ![logo](https://res.cloudinary.com/snyk/image/upload/v1620054318/wordpress-sync/blog-banner-github-scanning.png)
 <h1 align="center">Hi there 👋, I'm Sandeep Tripathi</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
+<h3 align="center">A passionate Salesforce/MERN developer from India</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Coding" width="500" height="350">
 </p>
 
 - 🌱 I’m currently learning **Python, Nest.js, TypeScript, Node, React, MySQL, Mongo and many more**
-- 💬 Ask me about **JavaScript, Node.js, Mongo DB, etc...**
+- 💬 Ask me about **APEX, SOQL, JavaScript, Node.js, Mongo DB, etc...**
 - ⚡ Fun fact: **I can make you laugh!!!**
 
 
@@ -37,6 +37,8 @@
   <img src="https://img.shields.io/badge/-Postman-orange?style=flat&logo=postman" alt="Postman" height="30" width="100"/>
   <img src="https://img.shields.io/badge/-Git-gray?style=flat&logo=git" alt="Git" height="30" width="100"/>
   <img src="https://img.shields.io/badge/-Python-yellow?style=flat&logo=python" alt="Python" height="30" width="100"/>
+  <img src="https://img.shields.io/badge/-Salesforce-blue?style=flat&logo=salesforce" alt="Salesforce" height="30" width="120"/>
+  <img src="https://img.shields.io/badge/-Apex-gray?style=flat&logo=apex" alt="Apex" height="30" width="100"/>
 </p>
 
 <p align="center">
